@@ -6,17 +6,19 @@ public class Aryana {
     String hobbies = "illustrating children's books and swimming";
     String contact_info = "azodiaryana@gmail.com";
 
-    public Aryana(){};
+    public Aryana() {
+    }
 
-    public void welcome(){
+    public void welcome() {
         System.out.println("Welcome to my page!");
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Aryana azodi = new Aryana();
         azodi.welcome();
     }
 }
+
 <!--
 **aryana4/aryana4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
