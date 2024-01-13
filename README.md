@@ -13,6 +13,11 @@ public class Aryana {
     public void welcome(){
         System.out.println("Welcome to my page!");
     }
+
+public static void main(String[] args){
+        Aryana azodi = new Aryana();
+        azodi.welcome();
+    }
 }
 
 ```
