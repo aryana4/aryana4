@@ -4,7 +4,7 @@
 
 public class Aryana {
     String education = "Software Eng and Psychology at McGill";
-    String languages = "Java, Python, C, C+, SQL, Ocaml, Assembly, Bash, HTML, JavaScript, PHP, CSS";
+    String languages = "Java, Python, C, C+, SQL, Ocaml, Assembly, Bash, HTML, JavaScript, PHP, CSS, ReactJS";
     String hobbies = "illustrating children's books and swimming";
     String contact_info = "azodiaryana@gmail.com";
 
