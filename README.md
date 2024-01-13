@@ -1,6 +1,6 @@
 ### Hi there 👋
-coding...
-public class Aryana {
+
+public Aryana {
     String education = "Software Eng and Psychology at McGill";
     String languages = "Java, Python, C, C+, SQL, Ocaml, Assembly, Bash, HTML, JavaScript, PHP, CSS";
     String hobbies = "illustrating children's books and swimming";
