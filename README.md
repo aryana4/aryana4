@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 public class Aryana {
     String education = "Software Eng and Psychology at McGill";
